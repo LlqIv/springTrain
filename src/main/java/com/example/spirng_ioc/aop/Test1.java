@@ -11,7 +11,7 @@ public class Test1 {
         Library library = context.getBean("libraryBean", Library.class);
         Book book = context.getBean("book", Book.class);
         library.getBook();
-        library.returnMagazine();
+        library.getMagazine();
         library.addBook();
 
 //        FakeLibrary fakeLibrary = context.getBean("fakeLibrary", FakeLibrary.class);
