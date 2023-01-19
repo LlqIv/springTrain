@@ -1,5 +1,9 @@
-package com.example.spirng_ioc;
+package com.example.spirng_ioc.spring_ioc;
 
+import com.example.spirng_ioc.spring_ioc.ConfigClass;
+import com.example.spirng_ioc.spring_ioc.Dog;
+import com.example.spirng_ioc.spring_ioc.Person;
+import com.example.spirng_ioc.spring_ioc.Pet;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Test {

@@ -1,4 +1,4 @@
-package com.example.spirng_ioc;
+package com.example.spirng_ioc.spring_ioc;
 
 public class Person {
 
